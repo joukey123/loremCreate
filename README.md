@@ -1,4 +1,4 @@
-# Lorem Create 
+# Lorem Create - React
 
 > 생성하고 싶은 문단 수 입력 (form, input)
 1. input 입력시 onChange 함수
